@@ -1,0 +1,32 @@
+
+
+footer{
+    background-color: azure;
+    width: 100%;
+    height: 60px;
+   
+
+  
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer h5{
+    margin-top: 15px;
+    cursor: pointer;
+    color: #8c7be9;;
+}
+button{
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 5px;
+    color: #8c7be9;
+    background: none;
+    padding: 2px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #8c7be9;
+    color: #efeef8;
+}

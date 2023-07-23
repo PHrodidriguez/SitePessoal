@@ -1,0 +1,41 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.header{
+  display: flex;
+  justify-content: space-evenly;
+  height: 40px;
+  width: 100%;
+  font-size: 20px;
+  cursor: pointer;
+  position: fixed;
+  background:none;
+}
+.header-bg{
+  display: flex;
+  justify-content: space-evenly;
+  height: 60px;
+  width: 100%;
+  font-size: 20px;
+  cursor: pointer;
+  position: fixed;
+  background-color: azure;
+  transition: .5s;
+  
+}
+header h5{
+  margin-top: 15px;
+  color: #8c7be9;;
+}
+.facode{
+  margin-top: 1%;
+  font-size: 30px;
+  color: #8c7be9;
+}
+
+
+
